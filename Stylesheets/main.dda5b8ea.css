@@ -1,3 +1,6 @@
+* {
+  scroll-behavior: smooth;
+}
 .fa,
 .fa-stack {
   display: inline-block;
